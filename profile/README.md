@@ -50,11 +50,6 @@
     </td>
   </tr>
 </table>
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
-</p>
 
 <p align="center">
   <sub>Global Archive of NESS · All projects in one ecosystem.</sub>
