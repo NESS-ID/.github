@@ -11,9 +11,7 @@
 </p>
 
 ---
-
-## Main Projects
-
+<p align="center">
 <table>
   <tr>
     <td align="center" width="45">
@@ -76,6 +74,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 ---
 
