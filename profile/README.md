@@ -35,7 +35,7 @@
       <sub>Api NESS.</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Private Server" />
+      <img src="https://cdn.ness.web.id/tmp/osu!ness.png" width="110" alt="NESS Private Server" />
       <br/><br/>
       <b>NESS osu!</b>
       <br/>
