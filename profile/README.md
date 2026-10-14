@@ -28,7 +28,7 @@
       <sub>Anime Discovery.</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Open API" />
+      <img src="https://cdn.ness.web.id/tmp/1001143752-5a961317.png" width="110" alt="NESS Open API" />
       <br/><br/>
       <b>NESS Open API</b>
       <br/>
