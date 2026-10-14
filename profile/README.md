@@ -14,44 +14,39 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <h3>01</h3>
       <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Music" />
       <br/><br/>
       <b>NESS Music</b>
       <br/>
-      <sub>Music streaming platform.</sub>
+      <sub>Music Platform.</sub>
     </td>
     <td align="center" width="150">
-      <h3>02</h3>
       <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Anime" />
       <br/><br/>
       <b>NESS Anime</b>
       <br/>
-      <sub>Anime discovery platform.</sub>
+      <sub>Anime Discovery.</sub>
     </td>
     <td align="center" width="150">
-      <h3>03</h3>
       <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Open API" />
       <br/><br/>
       <b>NESS Open API</b>
       <br/>
-      <sub>API services for developers.</sub>
+      <sub>Api NESS.</sub>
     </td>
     <td align="center" width="150">
-      <h3>04</h3>
       <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Private Server" />
       <br/><br/>
-      <b>NESS Private Server</b>
+      <b>NESS osu!</b>
       <br/>
-      <sub>Private server infrastructure.</sub>
+      <sub>Infrastructure Server.</sub>
     </td>
     <td align="center" width="150">
-      <h3>05</h3>
       <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Minecraft Server" />
       <br/><br/>
-      <b>NESS Minecraft Server</b>
+      <b>NESS Minecraft</b>
       <br/>
-      <sub>Multiplayer Minecraft experience.</sub>
+      <sub>Multiplayer Minecraft.</sub>
     </td>
   </tr>
 </table>
