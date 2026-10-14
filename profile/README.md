@@ -16,67 +16,67 @@
 
 <table>
   <tr>
-    <td width="70">
-      <h2 align="center">01</h2>
+    <td align="center" width="45">
+      <b>01</b>
+    </td>
+    <td width="110">
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Music" />
     </td>
     <td>
-      <a href="#">
-        <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100%" alt="NESS Music" />
-      </a>
-      <h3>NESS Music</h3>
-      <p>Music streaming and audio entertainment platform.</p>
+      <b>NESS Music</b><br/>
+      <sub>Music streaming and audio entertainment platform.</sub><br/>
       <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
-    <td width="70">
-      <h2 align="center">02</h2>
+    <td align="center">
+      <b>02</b>
     </td>
     <td>
-      <a href="#">
-        <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100%" alt="NESS Anime" />
-      </a>
-      <h3>NESS Anime</h3>
-      <p>Anime discovery and entertainment platform.</p>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Anime" />
+    </td>
+    <td>
+      <b>NESS Anime</b><br/>
+      <sub>Anime discovery and entertainment platform.</sub><br/>
       <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
-    <td width="70">
-      <h2 align="center">03</h2>
+    <td align="center">
+      <b>03</b>
     </td>
     <td>
-      <a href="#">
-        <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100%" alt="NESS Open API" />
-      </a>
-      <h3>NESS Open API</h3>
-      <p>API services and integrations for developers.</p>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Open API" />
+    </td>
+    <td>
+      <b>NESS Open API</b><br/>
+      <sub>API services and integrations for developers.</sub><br/>
       <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
-    <td width="70">
-      <h2 align="center">04</h2>
+    <td align="center">
+      <b>04</b>
     </td>
     <td>
-      <a href="#">
-        <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100%" alt="NESS Private Server" />
-      </a>
-      <h3>NESS Private Server</h3>
-      <p>Private server infrastructure and services.</p>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Private Server" />
+    </td>
+    <td>
+      <b>NESS Private Server</b><br/>
+      <sub>Private server infrastructure and services.</sub><br/>
       <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
-    <td width="70">
-      <h2 align="center">05</h2>
+    <td align="center">
+      <b>05</b>
     </td>
     <td>
-      <a href="#">
-        <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100%" alt="NESS Minecraft Server" />
-      </a>
-      <h3>NESS Minecraft Server</h3>
-      <p>A multiplayer Minecraft experience powered by NESS.</p>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Minecraft Server" />
+    </td>
+    <td>
+      <b>NESS Minecraft Server</b><br/>
+      <sub>A multiplayer Minecraft experience powered by NESS.</sub><br/>
       <a href="#">View Project →</a>
     </td>
   </tr>
