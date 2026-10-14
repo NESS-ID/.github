@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Music" />
+      <img src="https://cdn.ness.web.id/tmp/ProyekBaru9741BAC79-431fb6e5.png" width="110" alt="NESS Music" />
       <br/><br/>
       <b>NESS Music</b>
       <br/>
