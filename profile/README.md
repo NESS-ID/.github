@@ -42,7 +42,7 @@
       <sub>Infrastructure Server.</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Minecraft Server" />
+      <img src="https://cdn.ness.web.id/tmp/minecraftness-b9d5b1b8.png" width="110" alt="NESS Minecraft Server" />
       <br/><br/>
       <b>NESS Minecraft</b>
       <br/>
