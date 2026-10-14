@@ -9,4 +9,18 @@ global archive of ness
 </p>
 
 the main project
+
+1. NESS Music
+<img align="center" src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" style="border-radius: 10px;"/>
+
+2. NESS Anime
+<img align="center" src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" style="border-radius: 10px;"/>
+
+3. NESS Open Api
+<img align="center" src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" style="border-radius: 10px;"/>
+
+4. NESS Privite Server
+<img align="center" src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" style="border-radius: 10px;"/>
+
+5. NESS Minecraft Server
 <img align="center" src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" style="border-radius: 10px;"/>
