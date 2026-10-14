@@ -25,7 +25,6 @@
     <td>
       <b>NESS Music</b><br/>
       <sub>Music streaming and audio entertainment platform.</sub><br/>
-      <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -38,7 +37,6 @@
     <td>
       <b>NESS Anime</b><br/>
       <sub>Anime discovery and entertainment platform.</sub><br/>
-      <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -51,7 +49,6 @@
     <td>
       <b>NESS Open API</b><br/>
       <sub>API services and integrations for developers.</sub><br/>
-      <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -64,7 +61,6 @@
     <td>
       <b>NESS Private Server</b><br/>
       <sub>Private server infrastructure and services.</sub><br/>
-      <a href="#">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -77,7 +73,6 @@
     <td>
       <b>NESS Minecraft Server</b><br/>
       <sub>A multiplayer Minecraft experience powered by NESS.</sub><br/>
-      <a href="#">View Project →</a>
     </td>
   </tr>
 </table>
