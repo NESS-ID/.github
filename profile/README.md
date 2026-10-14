@@ -21,7 +21,7 @@
       <sub>Music Platform.</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Anime" />
+      <img src="https://cdn.ness.web.id/tmp/aniness-b8c31a36.png" width="110" alt="NESS Anime" />
       <br/><br/>
       <b>NESS Anime</b>
       <br/>
