@@ -11,71 +11,50 @@
 </p>
 
 ---
-<p align="center">
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="45">
-      <b>01</b>
+    <td align="center" width="150">
+      <h3>01</h3>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Music" />
+      <br/><br/>
+      <b>NESS Music</b>
+      <br/>
+      <sub>Music streaming platform.</sub>
     </td>
-    <td width="110">
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Music" />
+    <td align="center" width="150">
+      <h3>02</h3>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Anime" />
+      <br/><br/>
+      <b>NESS Anime</b>
+      <br/>
+      <sub>Anime discovery platform.</sub>
     </td>
-    <td>
-      <b>NESS Music</b><br/>
-      <sub>Music streaming and audio entertainment platform.</sub><br/>
+    <td align="center" width="150">
+      <h3>03</h3>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Open API" />
+      <br/><br/>
+      <b>NESS Open API</b>
+      <br/>
+      <sub>API services for developers.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>02</b>
+    <td align="center" width="150">
+      <h3>04</h3>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Private Server" />
+      <br/><br/>
+      <b>NESS Private Server</b>
+      <br/>
+      <sub>Private server infrastructure.</sub>
     </td>
-    <td>
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Anime" />
-    </td>
-    <td>
-      <b>NESS Anime</b><br/>
-      <sub>Anime discovery and entertainment platform.</sub><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>03</b>
-    </td>
-    <td>
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Open API" />
-    </td>
-    <td>
-      <b>NESS Open API</b><br/>
-      <sub>API services and integrations for developers.</sub><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>04</b>
-    </td>
-    <td>
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Private Server" />
-    </td>
-    <td>
-      <b>NESS Private Server</b><br/>
-      <sub>Private server infrastructure and services.</sub><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>05</b>
-    </td>
-    <td>
-      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="100" alt="NESS Minecraft Server" />
-    </td>
-    <td>
-      <b>NESS Minecraft Server</b><br/>
-      <sub>A multiplayer Minecraft experience powered by NESS.</sub><br/>
+    <td align="center" width="150">
+      <h3>05</h3>
+      <img src="https://cdn.ness.web.id/tmp/1001143742-533f63ad.png" width="110" alt="NESS Minecraft Server" />
+      <br/><br/>
+      <b>NESS Minecraft Server</b>
+      <br/>
+      <sub>Multiplayer Minecraft experience.</sub>
     </td>
   </tr>
 </table>
-</p>
-
 ---
 
 <p align="center">
